@@ -51,7 +51,7 @@ h6 {
 /*SHAPKA*/
 
 .intro {
-    background: url(/images/grif.jpg) center no-repeat;
+    background: url(../images/grif.jpg) center no-repeat;
     width: 100%;
     height: 200px;
     background-size: cover;
@@ -60,7 +60,7 @@ h6 {
 }
 
 .content {
-    background-image: url(images/flower.png);
+    background-image: url(../images/flower.png);
     height: 365px;
 }
 
@@ -168,7 +168,7 @@ h6 {
 }
 /*форма*/
 .form {
-    background-image: url(images/flow4.png);
+    background-image: url(../images/flow4.png);
     height: 450px;
     color:#fff;
     font-size: 25px;
